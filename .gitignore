@@ -1,0 +1,9 @@
+data/*.csv
+!data/sample_10k.csv
+data/*.zip
+__pycache__/
+*.pyc
+spark-warehouse/
+metastore_db/
+paper/node_modules/
+PS_20174392719_1491204439457_log.csv

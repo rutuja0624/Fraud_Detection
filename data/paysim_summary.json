@@ -1,0 +1,33 @@
+{
+  "source": "PS_20174392719_1491204439457_log.csv",
+  "rows": 6362620,
+  "fraud": 8213,
+  "fraud_rate": 0.001290820448180152,
+  "step_min": 1,
+  "step_max": 743,
+  "null_cells": 0,
+  "by_type": {
+    "CASH_IN": {
+      "rows": 1399284,
+      "fraud": 0
+    },
+    "CASH_OUT": {
+      "rows": 2237500,
+      "fraud": 4116
+    },
+    "DEBIT": {
+      "rows": 41432,
+      "fraud": 0
+    },
+    "PAYMENT": {
+      "rows": 2151495,
+      "fraud": 0
+    },
+    "TRANSFER": {
+      "rows": 532909,
+      "fraud": 4097
+    }
+  },
+  "sorted_by_step": true,
+  "max_step_filter": null
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "fraction": 0.25,
+    "rows": 2204140,
+    "fe_seconds": 30.340054988861084,
+    "gbt_fit_seconds": 139.68700790405273,
+    "rows_per_sec_fe": 72647.85778434543,
+    "positive_weight": 32.343428809781386
+  },
+  {
+    "fraction": 0.5,
+    "rows": 5256373,
+    "fe_seconds": 42.83812117576599,
+    "gbt_fit_seconds": 524.1694722175598,
+    "rows_per_sec_fe": 122703.16381133889,
+    "positive_weight": 35.59668191799015
+  },
+  {
+    "fraction": 1.0,
+    "rows": 6362620,
+    "fe_seconds": 113.03900933265686,
+    "gbt_fit_seconds": 712.1144506931305,
+    "rows_per_sec_fe": 56286.94056647085,
+    "positive_weight": 27.815482804507912
+  }
+]
